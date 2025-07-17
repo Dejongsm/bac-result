@@ -63,22 +63,4 @@ button:hover {
     padding: 15px;
   }
 }
-</style>
-<header>
-  نتائج شهادة البكالوريا 2025
-</header>
-
-<div class="container">
-  <input type="text" placeholder="أدخل رقم التسجيل أو الاسم..." id="searchInput">
-  <button onclick="search()">بحث</button>
-
-  <div id="resultsArea">
-    <div class="result-card">
-      <h3>الاسم: محمد أمين</h3>
-      <p>رقم التسجيل: 123456</p>
-      <p>الشعبة: علوم تجريبية</p>
-      <p>المعدل: 16.75</p>
-      <p>النتيجة: ناجح مع مرتبة الشرف</p>
-    </div>
-  </div>
-</div>
+</style
